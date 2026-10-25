@@ -21,19 +21,11 @@
   <img src="assets/banner.png" width="100%" alt="Moebius TryHackMe penetration-testing walkthrough banner">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-Moebius-red?style=for-the-badge&amp;logo=tryhackme" alt="TryHackMe Moebius">
-  <img src="https://img.shields.io/badge/Linux-Web%20%2B%20Container-orange?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux, web application and container security">
-  <img src="https://img.shields.io/badge/Category-Web%20Exploitation-blue?style=for-the-badge" alt="Web exploitation">
-</p>
-
 ---
 
 ## Navigation
 
 <div class="ctf-toc">
-<div class="ctf-toc-title">Documentation Map</div>
-
 <ul>
   <li><a href="#mission-and-executive-summary">Mission and Executive Summary</a></li>
   <li><a href="#quick-overview">Quick Overview</a></li>
